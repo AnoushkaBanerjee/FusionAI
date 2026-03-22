@@ -1,6 +1,0 @@
-The following modules have to be installed in python to run this program:-
-->pyttsx3
-->sympy
-->google-genai
-
-Open command prompt and run this:- pip install pyttsx3 sympy google-genai
