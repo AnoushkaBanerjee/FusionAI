@@ -12,7 +12,8 @@ FusionAI – Usage Guide:
 
 The program allows users to interact with a simple AI system that can operate in both Offline Mode and Online Mode depending on the user's needs and internet availability.
 
-⚠️IMPORTANT:- Install all the modules, dependencies and most importantly, latest Version of Python as mentioned in "INSTALL_THESE.txt"-
+⚠️IMPORTANT:- Install all the modules, dependencies and most importantly, latest version of Python as mentioned in "INSTALL_THESE.txt"-
+
 Offline Mode:
 Offline mode runs using basic scripted responses built directly into the program.
 
@@ -50,9 +51,8 @@ Access to the Gemini API services
 How FusionAI Works:
 In Offline Mode, the program runs a local scripted AI system built with Python.
 In Online Mode, the program connects to Google Gemini 2.0 Flash, which generates responses dynamically using a real AI model.
-Online Mode Limits
 
-There are usage limits when communicating with the online AI model.
+Online Mode Limits: There are usage limits when communicating with the online AI model.
 These limits depend on the Gemini API usage policies, which may restrict the number of requests or conversations within a certain time period.
 ___________________________________________________________________________________________________________________________________________________________________________
 ©️Google Gemini-Model 2.0 Flash_API, etc...
