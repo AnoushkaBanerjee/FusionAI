@@ -12,7 +12,7 @@ FusionAI – Usage Guide:
 
 The program allows users to interact with a simple AI system that can operate in both Offline Mode and Online Mode depending on the user's needs and internet availability.
 
-⚠️IMPORTANT:- Install all the modules, dependencies and most importantly, Last Version of Python as mentioned in "INSTALL_THESE.txt"-
+⚠️IMPORTANT:- Install all the modules, dependencies and most importantly, latest Version of Python as mentioned in "INSTALL_THESE.txt"-
 Offline Mode:
 Offline mode runs using basic scripted responses built directly into the program.
 
